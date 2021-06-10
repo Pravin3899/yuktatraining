@@ -1,5 +1,7 @@
 package yultamedia.test.test2;
 
 public class FirstClass {
-//added comment on 5th Jan 2021
+public static void main(String[] args){
+  System.out.println("test");
+}
 }
